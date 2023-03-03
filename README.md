@@ -3,4 +3,4 @@ Simple 2D Pygame.
 
 InSpace:
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/ValaskaGergo/SpaceShip-Invader-2players-/blob/main/inSpace.png)
